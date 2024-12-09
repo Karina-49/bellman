@@ -1,0 +1,14 @@
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\bin\Debug\net6.0\Bellman.exe
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\bin\Debug\net6.0\Bellman.deps.json
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\bin\Debug\net6.0\Bellman.runtimeconfig.json
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\bin\Debug\net6.0\Bellman.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\bin\Debug\net6.0\Bellman.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.AssemblyInfoInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.AssemblyInfo.cs
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\refint\Bellman.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\Bellman.genruntimeconfig.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Bellman\Bellman\obj\Debug\net6.0\ref\Bellman.dll
